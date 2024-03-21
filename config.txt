@@ -1,0 +1,10 @@
+IP_ADDRESS=127.0.0.1
+PORT_NUM=7879
+NUM_THREADS=100
+404_FILE=404.html
+ROOT_FILE=index.html
+ROOT_DIR=html
+LOG_FILE=log.txt
+BACKUP_LOG=log_backup.txt
+SERVER_NAME=penhallow
+HISTORY_FILE=history.txt
